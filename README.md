@@ -1,5 +1,5 @@
 # query_shark
-Calibre recipe for getting Query Shark on your ebook reader.
+Calibre recipe for getting [Query Shark](http://queryshark.blogspot.co.uk/) on your ebook reader.
 
 ##How to install and use
 
